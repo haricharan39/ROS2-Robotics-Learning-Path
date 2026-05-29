@@ -1,4 +1,4 @@
-\# A Journey Through ROS 2 and RViz2 🚀
+# A Journey Through ROS 2 and RViz2 🚀
 
 
 
@@ -6,7 +6,7 @@ This repository documents my learning journey with ROS 2, RViz2, robot modeling,
 
 
 
-\## About
+## About
 
 
 
@@ -14,13 +14,13 @@ My interest in robotics grew after learning how concepts from Engineering Dynami
 
 
 
-\## Topics Explored
+## Topics Explored
 
 
 
-\- ROS 2 Fundamentals
+- ROS 2 Fundamentals
 
-\- Nodes, Topics, Services, and Actions
+- Nodes, Topics, Services, and Actions
 
 \- URDF and Xacro
 
