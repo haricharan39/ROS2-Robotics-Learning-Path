@@ -1,4 +1,4 @@
-# A Journey Through ROS 2 and RViz2 🚀
+# A Journey Through ROS 2 and RViz2 
 
 
 
