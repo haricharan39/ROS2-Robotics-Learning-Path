@@ -22,27 +22,27 @@ My interest in robotics grew after learning how concepts from Engineering Dynami
 
 - Nodes, Topics, Services, and Actions
 
-\- URDF and Xacro
+- URDF and Xacro
 
-\- Robot State Publisher
+- Robot State Publisher
 
-\- Joint State Publisher
+- Joint State Publisher
 
-\- TF and TF Trees
+- TF and TF Trees
 
-\- RViz2 Visualization
+- RViz2 Visualization
 
-\- Gazebo Simulation
+- Gazebo Simulation
 
-\- MoveIt 2 Motion Planning
+- MoveIt 2 Motion Planning
 
-\- Pick and Place Tasks
+- Pick and Place Tasks
 
-\- ROS 2 Package Development
+- ROS 2 Package Development
 
 
 
-\## Repository Structure
+## Repository Structure
 
 
 
@@ -72,59 +72,59 @@ mycobot\_ros2                 ROS 2 integration packages
 
 
 
-\## Software Stack
+## Software Stack
 
 
 
-\- Ubuntu 24.04
+- Ubuntu 24.04
 
-\- ROS 2 Jazzy Jalisco
+- ROS 2 Jazzy Jalisco
 
-\- RViz2
+- RViz2
 
-\- Gazebo Harmonic
+- Gazebo Harmonic
 
-\- MoveIt 2
-
-
-
-\## Learning Outcomes
+- MoveIt 2
 
 
 
-\- Robot modeling using URDF and Xacro
-
-\- ROS 2 communication architecture
-
-\- TF frame transformations
-
-\- Robot visualization in RViz2
-
-\- Simulation workflows in Gazebo
-
-\- Motion planning using MoveIt 2
-
-\- Workspace management and debugging in ROS 2
+## Learning Outcomes
 
 
 
-\## Future Goals
+- Robot modeling using URDF and Xacro
+
+- ROS 2 communication architecture
+
+- TF frame transformations
+
+- Robot visualization in RViz2
+
+- Simulation workflows in Gazebo
+
+- Motion planning using MoveIt 2
+
+- Workspace management and debugging in ROS 2
 
 
 
-\- Build complete robotic manipulation workflows
-
-\- Integrate perception using cameras and sensors
-
-\- Explore autonomous mobile robots
-
-\- Develop robotics projects combining mechanical design and software
+## Future Goals
 
 
 
-\---
+- Build complete robotic manipulation workflows
+
+- Integrate perception using cameras and sensors
+
+- Explore autonomous mobile robots
+
+- Develop robotics projects combining mechanical design and software
 
 
 
-\*"Every robotics project starts with understanding the basics."\*
+---
+
+
+
+*"Every robotics project starts with understanding the basics."\*
 
